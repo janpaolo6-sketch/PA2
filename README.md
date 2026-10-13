@@ -2,14 +2,14 @@
 
 > **Curso:** PROGRAMACION WEB - II  
 > **Código:** 30690  
-> **Evaluación:** [PA1 / PA2 / PA3 / PA4 / EI]  
+> **Evaluación:** [PA2]  
 > **Equipo:** [NOMBRE O NÚMERO]  
 
 ## 1. Integrantes
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| [Nombre 1] | [Rol] | [Aporte] |
+| [Oscar Maravi] | [Rol] | [Aporte] |
 | [Nombre 2] | [Rol] | [Aporte] |
 | [Nombre 3] | [Rol] | [Aporte] |
 | [Nombre 4] | [Rol] | [Aporte] |
