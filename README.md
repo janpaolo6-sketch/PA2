@@ -26,7 +26,7 @@
 | [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
-## 6. Video de exposición
+## 3. Video de exposición
 
 **Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
 
