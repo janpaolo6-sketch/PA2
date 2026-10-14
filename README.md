@@ -9,13 +9,13 @@
 
 | Integrante             | Rol   | Aporte principal            |
 |------------------------|-------|-----------------------------|
-| [Oscar Maravi]         | [Rol] | [Actividad 4]               |
-| [Carlos Perez Scharff] | [Rol] | [Actividad 2. Puntos 1 y 2] |
-| [Jan Paolo Arellano]   | [Rol] | [Actividad 1]               |
-| [Alan Llallihuamán Calderón]             | [Rol] | [Actividad 3]                    |
-| [Nombre 5]             | [Rol] | [Aporte]                    |
+| [Oscar Maravi]         | [Estudiante] | [Actividad 4]               |
+| [Carlos Perez Scharff] | [Estudiante] | [Actividad 2. Puntos 1 y 2] |
+| [Jan Paolo Arellano]   | [Estudiante] | [Actividad 1]               |
+| [Alan Llallihuamán Calderón]             | [Estudiante] | [Actividad 3]                    |
+| [Sergio Alberto Mamani Quichca]             | [Estudiante] | [NO PARTICIPA]                    |
 
-
+S
 ## 2. Matriz de participación
 
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
@@ -24,11 +24,13 @@
 | [Carlos Perez Scharff] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Jan Paolo Arellano] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Alan Llallihuamán Calderón] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Sergio Alberto Mamani Quichca] | [Nula] | [Nula] | [Nula] | [No] | [No participó] |
 
 ## 3. Video de exposición
 
-**Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
+**Video público de YouTube:** https://youtu.be/iRw2ki-6Wg8
+
+**Link Github:** https://github.com/janpaolo6-sketch/PA2/tree/main
 
 Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
 
