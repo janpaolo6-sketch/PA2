@@ -13,7 +13,7 @@
 | [Carlos Perez Scharff] | [Rol] | [Actividad 2. Puntos 1 y 2] |
 | [Jan Paolo Arellano]   | [Rol] | [Actividad 1]               |
 | [Alan Llallihuamán Calderón]             | [Rol] | [Actividad 3]                    |
-| [Nombre 5]             | [Rol] | [Aporte]                    |
+| [Sergio Mamamni Quichca]             | [Rol] | [Actividad 2. Puntos 3,4 y 5]                    |
 
 
 ## 2. Matriz de participación
@@ -24,7 +24,7 @@
 | [Carlos Perez Scharff] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Jan Paolo Arellano] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Alan Llallihuamán Calderón] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Sergio Mamamni Quichca] | [Alta] | [Alta] | [Alta] | [No] | [Commits, avances, etc.] |
 
 ## 3. Video de exposición
 
