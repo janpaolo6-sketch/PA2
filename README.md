@@ -1,27 +1,31 @@
 # README — Evaluación
 
-> **Curso:** PROGRAMACION WEB - II  
-> **Código:** 30690  
+> **Curso:** ALGORITMOS Y ESTRUCTURA DE DATOS BASADOS EN IA
+> **Código:** 4682
 > **Evaluación:** [PA2]  
-> **Equipo:** [NOMBRE O NÚMERO]  
+> **Equipo:** [EQUIPO 2]  
 
 ## 1. Integrantes
 
-| Integrante | Rol | Aporte principal |
-|---|---|---|
-| [Oscar Maravi] | [Rol] | [Aporte] |
-| [Nombre 2] | [Rol] | [Aporte] |
-| [Nombre 3] | [Rol] | [Aporte] |
-| [Nombre 4] | [Rol] | [Aporte] |
-| [Nombre 5] | [Rol] | [Aporte] |
+| Integrante             | Rol | Aporte principal            |
+|------------------------|---|-----------------------------|
+| [Oscar Maravi]         | [Rol] | [Aporte]                    |
+| [Carlos Perez Scharff] | [Rol] | [Actividad 2. Puntos 1 y 2] |
+| [Nombre 3]             | [Rol] | [Aporte]                    |
+| [Nombre 4]             | [Rol] | [Aporte]                    |
+| [Nombre 5]             | [Rol] | [Aporte]                    |
 
 ## 2. Descripción y objetivo
 
 **Problema:**  
-[Describir brevemente el problema trabajado.]
+Una organización requiere gestionar una secuencia dinámica de solicitudes de atención. El registro
+cambia constantemente: ingresan nuevos casos, algunos se eliminan, otros deben reubicarse y en
+ciertos procesos se necesita navegar en ambos sentidos o mantener un ciclo continuo de revisión.
 
 **Objetivo:**  
-[Indicar qué busca resolver el proyecto.]
+Evaluación aplicada de nivel instituto universitario orientada al uso de estructuras lineales dinámicas
+para resolver un caso con cambios constantes. Se prioriza la claridad del modelado, la selección
+pertinente de estructuras y la argumentación técnica.
 
 **Solución desarrollada:**  
 [Explicar brevemente la solución implementada.]
