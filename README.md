@@ -11,7 +11,7 @@
 |------------------------|---|-----------------------------|
 | [Oscar Maravi]         | [Rol] | [Aporte]                    |
 | [Carlos Perez Scharff] | [Rol] | [Actividad 2. Puntos 1 y 2] |
-| [Nombre 3]             | [Rol] | [Aporte]                    |
+| Alan Llallihuamán Calderón]             | [Rol] | [Actividad 3]                    |
 | [Nombre 4]             | [Rol] | [Aporte]                    |
 | [Nombre 5]             | [Rol] | [Aporte]                    |
 
