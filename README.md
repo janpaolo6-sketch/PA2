@@ -7,57 +7,22 @@
 
 ## 1. Integrantes
 
-| Integrante             | Rol | Aporte principal            |
-|------------------------|---|-----------------------------|
-| [Oscar Maravi]         | [Rol] | [Aporte]                    |
+| Integrante             | Rol   | Aporte principal            |
+|------------------------|-------|-----------------------------|
+| [Oscar Maravi]         | [Rol] | [Actividad 4]               |
 | [Carlos Perez Scharff] | [Rol] | [Actividad 2. Puntos 1 y 2] |
-| Alan Llallihuamán Calderón]             | [Rol] | [Actividad 3]                    |
+| [Jan Paolo Arellano]   | [Rol] | [Actividad 1]               |
 | [Nombre 4]             | [Rol] | [Aporte]                    |
 | [Nombre 5]             | [Rol] | [Aporte]                    |
 
-## 2. Descripción y objetivo
 
-**Problema:**  
-Una organización requiere gestionar una secuencia dinámica de solicitudes de atención. El registro
-cambia constantemente: ingresan nuevos casos, algunos se eliminan, otros deben reubicarse y en
-ciertos procesos se necesita navegar en ambos sentidos o mantener un ciclo continuo de revisión.
-
-**Objetivo:**  
-Evaluación aplicada de nivel instituto universitario orientada al uso de estructuras lineales dinámicas
-para resolver un caso con cambios constantes. Se prioriza la claridad del modelado, la selección
-pertinente de estructuras y la argumentación técnica.
-
-**Solución desarrollada:**  
-[Explicar brevemente la solución implementada.]
-
-## 3. Cómo ejecutar o revisar
-
-```bash
-# Escribir aquí los comandos necesarios
-```
-
-**Pasos de revisión:**
-1. [Paso 1]
-2. [Paso 2]
-3. [Paso 3]
-
-> No publicar contraseñas, tokens, credenciales ni datos sensibles.
-
-## 4. Evidencias
-
-Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funcionamiento.
-
-- [Evidencia 1]
-- [Evidencia 2]
-- [Evidencia 3]
-
-## 5. Matriz de participación
+## 2. Matriz de participación
 
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
-| [Nombre 1] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 2] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 3] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Oscar Maravi] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
+| [Carlos Perez Scharff] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
+| [Jan Paolo Arellano] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
@@ -67,12 +32,6 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 
 Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
 
-## 7. Conclusiones
-
-- [Conclusión 1]
-- [Conclusión 2]
-- [Conclusión 3]
-
 ---
 
-**Última actualización:** [DD/MM/AAAA]
+**Última actualización:** [13/10/2026]
