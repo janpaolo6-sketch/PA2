@@ -7,13 +7,13 @@
 
 ## 1. Integrantes
 
-| Integrante | Rol | Aporte principal |
-|---|---|---|
-| [Oscar Maravi] | [Rol] | [Aporte] |
-| [Nombre 2] | [Rol] | [Aporte] |
-| [Nombre 3] | [Rol] | [Aporte] |
-| [Nombre 4] | [Rol] | [Aporte] |
-| [Nombre 5] | [Rol] | [Aporte] |
+| Integrante             | Rol | Aporte principal             |
+|------------------------|---|------------------------------|
+| [Oscar Maravi]         | [Rol] | [Aporte]                     |
+| [Carlos Perez Scharff] | [Rol] | [Actividad 2 - Puntos 1 Y 2] |
+| [Nombre 3]             | [Rol] | [Aporte]                     |
+| [Nombre 4]             | [Rol] | [Aporte]                     |
+| [Nombre 5]             | [Rol] | [Aporte]                     |
 
 ## 2. Descripción y objetivo
 
@@ -49,13 +49,13 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 
 ## 5. Matriz de participación
 
-| Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
-|---|---|---|---|---|---|
-| [Nombre 1] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 2] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 3] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| Integrante             | Desarrollo        | Pruebas           | Documentación     | Exposición | Evidencia de participación |
+|------------------------|-------------------|-------------------|-------------------|------------|---|
+| [Carlos Perez Scharff] | [Alta]            | [Alta]            | [Alta]            | [Sí ]      | [Commits, avances, etc.] |
+| [Nombre 2]             | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No]    | [Commits, avances, etc.] |
+| [Nombre 3]             | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No]    | [Commits, avances, etc.] |
+| [Nombre 4]             | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No]    | [Commits, avances, etc.] |
+| [Nombre 5]             | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No]    | [Commits, avances, etc.] |
 
 ## 6. Video de exposición
 
