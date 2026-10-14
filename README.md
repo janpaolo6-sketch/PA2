@@ -23,7 +23,7 @@
 | [Oscar Maravi] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Carlos Perez Scharff] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Jan Paolo Arellano] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| [Alan Llallihuamán Calderón | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
+| [Alan Llallihuamán Calderón] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
 ## 6. Video de exposición
