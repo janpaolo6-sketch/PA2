@@ -10,12 +10,11 @@
 | Integrante             | Rol   | Aporte principal            |
 |------------------------|-------|-----------------------------|
 | [Oscar Maravi]         | [Estudiante] | [Actividad 4]               |
-| [Carlos Perez Scharff] | [Estudiante] | [Actividad 2. Puntos 1 y 2] |
+| [Carlos Perez Scharff] | [Estudiante] | [Actividad 2] |
 | [Jan Paolo Arellano]   | [Estudiante] | [Actividad 1]               |
 | [Alan Llallihuamán Calderón]             | [Estudiante] | [Actividad 3]                    |
 | [Sergio Alberto Mamani Quichca]             | [Estudiante] | [NO PARTICIPA]                    |
 
-S
 ## 2. Matriz de participación
 
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
